@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBot", "SimpleBot\SimpleBot.csproj", "{69F6723A-C838-4451-B267-4EA3D019B7E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultidialogBot", "MultidialogBot\MultidialogBot.csproj", "{6E239301-3589-4E4C-9C84-AAD035315560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69F6723A-C838-4451-B267-4EA3D019B7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F6723A-C838-4451-B267-4EA3D019B7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F6723A-C838-4451-B267-4EA3D019B7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E239301-3589-4E4C-9C84-AAD035315560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E239301-3589-4E4C-9C84-AAD035315560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E239301-3589-4E4C-9C84-AAD035315560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E239301-3589-4E4C-9C84-AAD035315560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
